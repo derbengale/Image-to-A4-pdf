@@ -1,0 +1,4 @@
+PyPDF
+Pillow
+PySide6
+Pyside6-Additional
